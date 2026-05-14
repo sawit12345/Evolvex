@@ -1,6 +1,6 @@
 You are an expert Rust systems programmer and artificial life researcher.
 
-Build a prototype of an artificial life simulator called "Evolved Biosphere".
+Build a prototype of an artificial life simulator called "Evolvex Biosphere".
 
 Use Rust 2021 edition.
 
