@@ -620,15 +620,10 @@ Please output:
    cargo run --release -- --seed 42 --organisms 500 --nodes 1000 --ticks 10000 --log-every 100
 6. Suggested next improvements.
 
-Start by implementing the simplest complete version that compiles and runs.
-
 Do not leave TODOs in core logic.
 
-If you simplify something, explain the simplification.
-
-Do not over-engineer. Do not build a neural network. Do not build a full VM. Do not execute generated code. Build an interpreted ecology of symbolic modules first.
-
-The first version must be crude but alive.
+Do not over-engineer. Do not build a neural network. 
+The first version must be complete and alive.
 
 The miracle is not in fancy code.  
 The miracle is in the loop:
