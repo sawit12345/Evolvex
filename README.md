@@ -117,7 +117,7 @@ share). The miracle is the loop, not the code: local interaction → energy cost
 fuzzy call → mutation → death leaves structure → copying from the dead →
 reproduction → repeat.
 
-## Suggested next improvements
+## next improvements:
 
 * Explicit per-interval (delta) counters alongside cumulative totals.
 * Service "contracts": let providers advertise and renegotiate prices, enabling
